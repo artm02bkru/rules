@@ -6,5 +6,6 @@ site:
       key: rules
       title: Правила модераторов
       path: rules
+      default: true        # <--- ДОБАВЛЕНА ЭТА СТРОКА
       content:
         directory: ./rules
