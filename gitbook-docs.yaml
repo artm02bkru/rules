@@ -1,0 +1,10 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: GDE.WTF Правила
+  structure:
+    - type: space
+      key: rules
+      title: Правила модераторов
+      path: rules
+      content:
+        directory: ./rules
